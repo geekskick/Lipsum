@@ -1,1 +1,1 @@
-clang-format -i -style="{BasedOnStyle: llvm, IndentWidth: 4}" ./*/*.cpp ./*/*.hpp
+clang-format -i -style="{BasedOnStyle: llvm, IndentWidth: 4}" ./*/*.cpp ./*/*.hpp ./*.hpp ./*.cpp
